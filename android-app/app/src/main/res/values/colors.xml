@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark theme colors matching planning.md -->
+    <color name="background">#1a1a1a</color>
+    <color name="container">#2a2a2a</color>
+    <color name="border">#444444</color>
+    <color name="border_light">#555555</color>
+    <color name="text_primary">#e0e0e0</color>
+    <color name="text_secondary">#d0d0d0</color>
+    <color name="text_subtle">#888888</color>
+    <color name="text_very_subtle">#666666</color>
+    <color name="timer_orange">#ff9800</color>
+    <color name="neutral_button">#444444</color>
+    <color name="neutral_button_dark">#333333</color>
+
+    <!-- Material colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
