@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Bl0cked</string>
+
+    <!-- Pairing Activity -->
+    <string name="pairing_title">Pair with PC</string>
+    <string name="pairing_code_hint">Enter 6-digit code</string>
+    <string name="pc_ip_hint">PC IP Address</string>
+    <string name="pair_button">Pair</string>
+    <string name="pairing_instructions">Enter the 6-digit code shown on your PC</string>
+
+    <!-- Control Fragment -->
+    <string name="control_title">Control</string>
+    <string name="status_label">Current Status</string>
+    <string name="status_unlocked">UNLOCKED</string>
+    <string name="status_locked">LOCKED</string>
+    <string name="activate_lock">ACTIVATE\nLOCK</string>
+    <string name="deactivate_lock">DEACTIVATE\nLOCK</string>
+    <string name="locked_for">Locked for: %02d:%02d:%02d</string>
+
+    <!-- Chores Fragment -->
+    <string name="chores_title">Chore Manager</string>
+    <string name="chore_list_header">CHORE LIST</string>
+    <string name="add_new_chore">+ NEW CHORE</string>
+    <string name="edit_chore">Edit</string>
+    <string name="delete_chore">🗑</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_control">Control</string>
+    <string name="nav_chores">Chores</string>
+
+    <!-- Version -->
+    <string name="version">v1.0.0</string>
+</resources>
