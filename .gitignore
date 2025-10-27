@@ -137,3 +137,40 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# .NET / C#
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+[Bb]in/
+[Oo]bj/
+.vs/
+*.dll
+*.exe
+*.pdb
+packages/
+*.cache
+
+# Android
+*.apk
+*.ap_
+*.dex
+.gradle/
+local.properties
+.idea/
+*.iml
+.DS_Store
+build/
+captures/
+.externalNativeBuild
+.cxx
+
+# Firebase
+google-services.json
+firebase-adminsdk-*.json
+
+# Secrets
+*.secret
+*.key
+state.json
